@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Chuck
  [![basher install](https://www.basher.it/assets/logo/basher_install.svg)](https://www.basher.it/package/)\
 This script displays a random Chuck Norris Fact at the command line.
@@ -26,4 +25,3 @@ whatismyip.sh
 - bash
 - curl
 - jq
->>>>>>> 069c502 (Initial commit)
