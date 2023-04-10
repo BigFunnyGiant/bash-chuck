@@ -19,7 +19,7 @@ basher install BigFunnyGiant/bash-chuck
 ```
 
 ## Usage
-whatismyip.sh
+chuck.sh
 
 ## Dependencies
 - bash
