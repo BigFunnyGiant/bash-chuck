@@ -6,7 +6,7 @@ It is powered by https://api.chucknorris.io/
 
 ```bash
 git clone https://github.com/BigFunnyGiant/bash-chuck # clone the repository
-cd bash-chuck
+cd bash-chuck/bin
 cp chuck.sh /usr/local/bin
 ```
 or copy it to somewhere you like, maybe in the PATH so you can execute it from anywhere\
